@@ -1,4 +1,5 @@
 # Epik.github.io
 # play games
 ## -Games-
-# https://littlealchemy2.com/
+# <button onclick="window.location.href='https://littlealchemy2.com/';">
+      Click Here
